@@ -12,8 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
-
+The topics we are interested in looking at are what social aspects impact student performance. Social aspects like parental educational backgrounds, how wealthy a student is, or their gender can easily influence the way students learn and apply their knowledge. Therefore, through this project we hope to illuminate the correlations between specific social aspects such as financial support and gender and how well students do on exams. Additionally, knowing that UBCO has all types of students from all over the world, we want to try to understand why students do better in school than others. A question we specifically want to explore is, "Do females often do better on standarized tests in comparison to men?" Our findings in this project can not only help us understand students but it can also help professors understand and sympathize with students  to create a better learning enviroment. Overall, as university students, we think this is an important topic that should be focused on because it allows students to understand each other more, and we can make UBCO a better place. 
 ## Describe your dataset in about 150-200 words
 
 **Please remember to update this section**
