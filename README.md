@@ -33,13 +33,13 @@ Our dataset focuses on standardized testing outcomes in three different categori
 
 {You can use this area for any images you want to include}
 
-<img src ="images/test.png" width="100px">
+<img src ="studentphoto.png" width="100px">
 
 ## References
 
 **Please remember to update this section**
 
-{Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
+[Link to Dataset](https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?resource=download)
 
 
 
