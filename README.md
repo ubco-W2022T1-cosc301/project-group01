@@ -1,4 +1,4 @@
-# Group 001 - (The Anomaly of Standarized Testing)
+# Group 001 - (The Socioeconomic Bias of Not-So-Standarized Testing)
 
 **Please remember to update this section**
 
@@ -33,7 +33,7 @@ Our dataset focuses on standardized testing outcomes in three different categori
 
 {You can use this area for any images you want to include}
 
-![photo for database](studentphoto.png)
+![photo for database](student.png)
 
 ## References
 
