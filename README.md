@@ -17,13 +17,13 @@ The topics we are interested in looking at are what social aspects impact studen
 
 **Please remember to update this section**
 
-Our dataset focuses on standardized testing outcomes in three different categories being math, reading, and writing and also looks at other life factors that could have impacts on these scores and may reveal a relationship that exists between testing and circumstances outside of school. Some of the other factors include gender, race/ethnicy, parental level of education, if they eat lunch and if they took a test preparation course. Since our dataset has a variety of variables and lots of data to supplement it, there are many possible outcomes that we can derive from this dataset, and make inferences based on the relationships that exist in this data. In all I hope that through looking at this dataset, we can discover an objective connection that shows that standardized testing might not be the most effective way of proving intellect, especially when many facotrs outside of school can effect how children perform on them.
+Our dataset focuses on standardized testing outcomes in three different categories being math, reading, and writing and also looks at other life factors that could have impacts on these scores and may reveal a relationship that exists between testing and circumstances outside of school. Some of the other factors include gender, race/ethnicy, parental level of education, if they eat lunch and if they took a test preparation course. Since our dataset has a variety of variables and lots of data to supplement it, there are many possible outcomes that we can derive from this dataset, and make inferences based on the relationships that exist in this data. In all I hope that through looking at this dataset, we can discover an objective connection that shows that standardized testing might not be the most effective way of proving intellect, especially when many factors outside of school can effect how children perform on them.
 
 ## Team Members
 
 **Please remember to update this section**
 
-- Noah Stasuik: Second year computer science major, data science minor at UBCO, hoping to make a difference through code!
+- Noah Stasuik: Second year Computer Science major, Data Science minor at UBCO, hoping to make a difference through code!
 - Tina Liu: A second year computer science major and management minors who enjoys playing tennis and badminton.
 - Peter Idoko: I am a second year planning to major in Computer Science and minor in Management. I love Basketball and food and hope to make a name for myself.
 
