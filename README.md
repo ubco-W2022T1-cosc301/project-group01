@@ -25,7 +25,7 @@ Our dataset focuses on standardized testing outcomes in three different categori
 
 - Noah Stasuik: Second year Computer Science major, Data Science minor at UBCO, hoping to make a difference through code! I also enjoy disc golf and hiking.
 - Tina Liu: A second year computer science major and management minors who enjoys playing tennis and badminton.
-- Peter Idoko: I am a second year planning to major in Computer Science and minor in Management. I love Basketball and food and hope to make a name for myself.
+- Peter Idoko: I am a second year planning to major in Computer Science and minor in Management. I love Basketball and food and hope to make a name for myself through Computer Science.
 
 ## Images
 
