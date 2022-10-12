@@ -33,7 +33,7 @@ Our dataset focuses on standardized testing outcomes in three different categori
 
 {You can use this area for any images you want to include}
 
-![photo for database](images/student.png)
+![photo for database](images/studentphoto.png)
 
 ## References
 
