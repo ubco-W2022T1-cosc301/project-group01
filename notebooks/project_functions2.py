@@ -4,16 +4,17 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 d1 = pd.read_csv('../data/raw/exams.csv')
-def load_and_process(d):
+def load_and_process(d1):
     df1 = (
-        pd.read_csv(d)
+        pd.read_csv(d1)
         .rename(columns={'gender': 'Sex', 'math score': 'Math Score', 'reading score': 'Reading Score', 'writing score': 'Writing Score'},)
         .dropna()    
     )
-    total=(d1['reading score'])+(d1['math score'])+(d1['writing score'])
+    average=((d1['reading score'])+(d1['math score'])+(d1['writing score']))/3
     df2 = (
         df1
         .drop(columns = ["race/ethnicity","parental level of education", "test preparation course","lunch"])
-        .assign(Total = total) 
-     )
+        .assign(average=(d['reading score']+d['math score']+d['writing score'])/3)
+    ) 
+     
     return df2
