@@ -4,11 +4,6 @@ import matplotlib.pylab as plt
 import seaborn as sns
 
 def load_and_process(df ='../data/raw/exams.csv'):
-    '''
-    This is the load and process fucntion built by Noah Stasuik
-    
-    In this function for my data analysis I drop the columns that are not needed, create new columns to help with my research, and clean any data that is   not needed in the dataset.
-    '''
     df1 = pd.read_csv(df)
     df2 = (
         pd.read_csv(df)
