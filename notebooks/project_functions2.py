@@ -10,11 +10,9 @@ def load_and_process(d1):
         .rename(columns={'gender': 'Sex', 'math score': 'Math Score', 'reading score': 'Reading Score', 'writing score': 'Writing Score'},)
         .dropna()    
     )
-    average=((d1['reading score'])+(d1['math score'])+(d1['writing score']))/3
     df2 = (
         df1
         .drop(columns = ["race/ethnicity","parental level of education", "test preparation course","lunch"])
-        .assign(average=(d['reading score']+d['math score']+d['writing score'])/3)
-    ) 
-     
+        .assign(average=(d1['reading score']+d1['math score']+d1['writing score'])/3)
+    )
     return df2
