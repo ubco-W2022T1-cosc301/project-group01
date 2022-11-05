@@ -22,4 +22,4 @@ def load_and_process(d1 = '../data/raw/exams.csv'):
         .assign(average=(p['reading score']+p['math score']+p['writing score'])/3)
     )
     return df2
-    ...
+    
