@@ -1,6 +1,6 @@
 # Group 001 - (The Socioeconomic Bias of Not-So-Standarized Testing)
 
-## FInal Report
+## Final Report
 
 Our Group's final report can be found [here!](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/final_report_group01.md)
 
@@ -24,7 +24,6 @@ Our dataset focuses on standardized testing outcomes in three different categori
 ## References
 
 [Link to Dataset](https://www.kaggle.com/datasets/whenamancodes/students-performance-in-exams?resource=download)
-
 [Link to SAT Annual report](https://reports.collegeboard.org/media/pdf/2022-total-group-sat-suite-of-assessments-annual-report.pdf)
 
 
