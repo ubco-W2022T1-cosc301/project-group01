@@ -40,8 +40,10 @@ The KDE confirmed what my bar plot also showed, which is that the more educated 
 #### [Link to Notebook](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/notebooks/analysis2.ipynb)
 Before doing any analysis at all, I hypothesized that females perform better than males in standardized tests. As a female university student, I was interested to see if one sex does better on standardized tests because I have always been told that “guys are smarter than girls”. In efforts to debunk this myth and see if females do better on certain subjects, I explore my research questions through 3 visualizations. These research interests are important to explore because females often struggle with expressing their intelligence and expertise. Therefore, I hope my data analysis helps females feel more empowered. 
 To start off, I check if my data analysis is valid or not by checking the number of males and females in the “gender” column. 
+
 ![count](/images/Analysis2_Image3.png)
 *By having relatively equal sample sizes for each gender, it increases statistical power and validates the data set more. I was able to move on with my data analysis since I was confident with the given data.* <br><br>
+
 Moving on, I wanted to compare the averages of each standardized tests to each sex to see which sex does better in what subject. I also compared the total averages of each subject and compared it to each sex in the 4th graph. 
 ![barplot](/images/Analysis2_Image1.png)
 *Based on the visualization above, I found out that females do better in writing and reading, and males do better in math. When comparing the total score average of all 3 subjects, females did 2.36% better.* <br><br>
