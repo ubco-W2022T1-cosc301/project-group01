@@ -41,15 +41,15 @@ The KDE confirmed what my bar plot also showed, which is that the more educated 
 Before doing any analysis at all, I hypothesized that females perform better than males in standardized tests. As a female university student, I was interested to see if one sex does better on standardized tests because I have always been told that “guys are smarter than girls”. In efforts to debunk this myth and see if females do better on certain subjects, I explore my research questions through 3 visualizations. These research interests are important to explore because females often struggle with expressing their intelligence and expertise. Therefore, I hope my data analysis helps females feel more empowered. 
 To start off, I check if my data analysis is valid or not by checking the number of males and females in the “gender” column. 
 
-![count](/images/Analysis2_Image3.png)
+![count](images/Analysis2_Image3.png)
 <br>*By having relatively equal sample sizes for each gender, it increases statistical power and validates the data set more. I was able to move on with my data analysis since I was confident with the given data.* <br>
 
 Moving on, I wanted to compare the averages of each standardized tests to each sex to see which sex does better in what subject. I also compared the total averages of each subject and compared it to each sex in the 4th graph. 
-![barplot](/images/Analysis2_Image1.png)
+![barplot](images/Analysis2_Image1.png)
 *Based on the visualization above, I found out that females do better in writing and reading, and males do better in math. When comparing the total score average of all 3 subjects, females did 2.36% better.* <br>
  
 To understand my data set more, I decided to use a violin plot to check the distribution of each test score. 
-![violinplot](/images/Analysis2_Image2.png)
+![violinplot](images/Analysis2_Image2.png)
 *Based on the visualization above, more females seem to be getting scores closer to 100% in comparison to me. The only outlier would be in math. Math is the only subject where more females are getting scores less than 20%.*<br><br>
  
 Overall, each of the graphs in these visualizations support my original hypothesis that females perform better on standardized tests than males. Looking at the other research interests, there are definitely other factors that contribute to each gender’s performance so it’s important to note that just because females do better on standardized tests doesn’t mean females are automatically smarter. 
@@ -57,9 +57,9 @@ Overall, each of the graphs in these visualizations support my original hypothes
 ## Do certain races complete more test preparation courses than others and as a result do they perform better? (Peter)
 #### [Link to Notebook](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/notebooks/analysis3.ipynb)
 For my research, I was interested in knowing if certain racial/ethnic groups had a higher ratio of students who had completed test preparation courses to students who had not. In relation to that, I also wanted to find out if certain races performed better overall in standardized testing as opposed to others. Putting these together, I ultimately wanted to know if certain racial groups performed better than others and how the completion of test preparation courses had affected these scores. To explore my research question, I created the following data visualizations to help understand the information and come to a conclusion. <br>
-![Fig.1](/images/analysi3_Fig2.png)
+![Fig.1](images/analysi3_Fig2.png)
 <br>*This bar plot shows the correlation between the different race/ethnicity groups and overall score. The plot shows that certain racial/ethnical groups perform above others in overall score. The difference may not be significant but it is notable.*
-![Fig.2](/images/analysis3_Fig3.png)
+![Fig.2](images/analysis3_Fig3.png)
 <br>*This graph shows the relation between the different racial group and how they performed in relation to whether or not they completed test preparation courses. As can be seen, groups 4, 5, and 1 had a higher number of people who completed test prep courses per group. The graph shows how these groups had higher overall scores as a result of the amount of students who had completed test preparation courses. Similarly, even students who didn’t perform well in their respective groups but had completed test prep courses still performed better than students who didn’t do well and had not completed test prep courses.*
 
 After completing my EDA, I was able to come to the conclusion that certain races have a higher number of people who completed test preparation courses and as a result performed higher than others. I compared these results to the college board SAT results and found similar outcomes. I found that White and Asian students had a higher percentage of students who placed in the 75th percentile. This along with my research demonstrates how standardized tests are unbalanced with certain races tending to perform above others. This was important to me because as a black international student, I relied on the SAT to get me to University and although I was fortunate enough to perform well on the examination, I was disposed to not perform as highly as other students because of my race and the amount of test prep available to me. In conclusion, in the context of race, standardized tests are not standard.
