@@ -1,8 +1,8 @@
 # Group 001 - (The Socioeconomic Bias of Not-So-Standarized Testing)
 
-## Milestones
+## FInal Report
 
-Details for Milestone are available on Canvas (left sidebar, Course Project).
+Our Group's final report can be found [here!](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/final_report_group01.md)
 
 ## Describe your topic/interest in about 150-200 words
 
