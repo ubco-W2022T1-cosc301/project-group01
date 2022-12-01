@@ -80,6 +80,3 @@ Analysis 3: Analyzing the overall mean total score of the different races, we ca
  
 After conducting individual analysis on the effects of parental level of education, gender, and race, we all came to the conclusion that there are many socio-economic factors that impact student performance on standardized tests. In fact, our findings highlight how unconventional standardized tests, and schools should not use them as a way to measure intelligence. 
 
-![violinplot](/images/Analysis2_Image2.png)
-
-[def]: images/analysis1_image2.png
