@@ -14,6 +14,7 @@ Analysis 2: In my analysis, I investigated whether or not one sex perform better
 For my analysis I wanted to see the correlation between overall score, race/ethnicity, and test preparation course completion. To collect the data for my analysis, I made a variable called 'total score' that summed the values of students' reading, writing, and math scores into one variable. Additionally, I dropped the columns/variables that were not pertaining to my research such as gender, parental level of education, and lunch. I then went on to create a pairplot(Fig.1), barplot(Fig.2), and a displot(Fig.3) to help visualize the dataset and reinforce my research question.
  
 ## How parental level of education effects student’s grades on standardized tests (Noah)
+#### [Link to Notebook](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/notebooks/analysis1.ipynb)
 For my question I decided to explore how a parent's education level affects their child's results on standardized exams. I felt that this question was an important one to look into because it could prove if a student's parents having a formal education gives an unfair advantage. This is crucial since many schools across the world rely on testing, which we have proven to be bias towards students of different socioeconomic statuses.
  
 To begin my analysis I first decided to look into whether there existed a correlation between students' grades and their parents' education level.
@@ -34,6 +35,7 @@ This visualization was really helpful in answering my research question since it
 The KDE confirmed what my bar plot also showed, which is that the more educated a student’s parents are, the better they perform on standardized test’s. What the KDE plot showed that the barplot did not, was that there is more data on students whose parents are less educated, than students whose parents are more educated, which could affect the conclusion of my data analysis.
  
 ## Does one sex do better on standardized exams than the other? (Tina) + results
+#### [Link to Notebook](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/notebooks/analysis2.ipynb)
 Before doing any analysis at all, I hypothesized that females perform better than males in standardized tests. As a female university student, I was interested to see if one sex does better on standardized tests because I have always been told that “guys are smarter than girls”. In efforts to debunk this myth and see if females do better on certain subjects, I explore my research questions through 3 visualizations. These research interests are important to explore because females often struggle with expressing their intelligence and expertise. Therefore, I hope my data analysis helps females feel more empowered. 
 To start off, I check if my data analysis is valid or not by checking the number of males and females in the “gender” column. 
 ![count](/images/Analysis2_Image3.png)
@@ -49,6 +51,7 @@ To understand my data set more, I decided to use a violin plot to check the dist
 Overall, each of the graphs in these visualizations support my original hypothesis that females perform better on standardized tests than males. Looking at the other research interests, there are definitely other factors that contribute to each gender’s performance so it’s important to note that just because females do better on standardized tests doesn’t mean females are automatically smarter. 
  
 ## Do certain races complete more test preparation courses than others and as a result do they perform better? (Peter)
+#### [Link to Notebook](https://github.com/ubco-W2022T1-cosc301/project-group01/blob/main/notebooks/analysis3.ipynb)
 For my research, I was interested in knowing if certain racial/ethnic groups had a higher ratio of students who had completed test preparation courses to students who had not. In relation to that, I also wanted to find out if certain races performed better overall in standardized testing as opposed to others. Putting these together, I ultimately wanted to know if certain racial groups performed better than others and how the completion of test preparation courses had affected these scores. To explore my research question, I created the following data visualizations to help understand the information and come to a conclusion. 
 ![Fig.1](/images/analysi3_Fig2.png)
  This bar plot shows the correlation between the different race/ethnicity groups and overall score. The plot shows that certain racial/ethnical groups perform above others in overall score. The difference may not be significant but it is notable.
