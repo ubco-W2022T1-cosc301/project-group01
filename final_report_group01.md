@@ -13,20 +13,21 @@ Analysis 2: In my analysis, I investigated whether or not one sex perform better
 ## Exploratory Data Analysis Highlights for Analysis 3:
 For my analysis I wanted to see the correlation between overall score, race/ethnicity, and test preparation course completion. To collect the data for my analysis, I made a variable called 'total score' that summed the values of students' reading, writing, and math scores into one variable. Additionally, I dropped the columns/variables that were not pertaining to my research such as gender, parental level of education, and lunch. I then went on to create a pairplot(Fig.1), barplot(Fig.2), and a displot(Fig.3) to help visualize the dataset and reinforce my research question.
  
-## How parental level of education effects student’s grades on standardized tests
+## How parental level of education effects student’s grades on standardized tests (Noah)
 For my question I decided to explore how a parent's education level affects their child's results on standardized exams. I felt that this question was an important one to look into because it could prove if a student's parents having a formal education gives an unfair advantage. This is crucial since many schools across the world rely on testing, which we have proven to be bias towards students of different socioeconomic statuses.
  
 To begin my analysis I first decided to look into whether there existed a correlation between students' grades and their parents' education level.
-## Figure 1:
+### Figure 1:
 ![heatmap](images/analysis1_image2.png)
 *The heatmap shows that there exists a strong correlation between the math, reading and writing scores, making it a viable option to use an average score in my analysis.*
-<br><br>
 After visualizing my data with a heatmap I then moved on to looking at the data through a few visualizations. After plotting my heatmap and verifying the average correlations with the individual subjects I will now show some graphs in order to prove my research question.
 <br>
 After proving this I created a visualization that separated parental level of education into 6 categories with 1: some highschool, 2: highschool, 3: some college 4: associate's degree 5: bachelor's degree and 6: master's degree.
+### Figure 2:
 ![barplot](images/analysis1_image1.png)
 *The barplot shows how parental level of education correlates with student’s grades on standardized tests*
 This visualization was really helpful in answering my research question since it very clearly shows that when a student’s parents are more educated higher grades are then achieved. After confirming my research question with the barplot I then used a KDE plot to confirm what my first visualization showed me. 
+### Figure 3:
 ![kde plot](images/analysis1_image3.png)
 *This KDE plot again shows that as a student’s parent’s are more educated, they perform better on standardized tests in math, reading and writing*
 The KDE confirmed what my bar plot also showed, which is that the more educated a student’s parents are, the better they perform on standardized test’s. What the KDE plot showed that the barplot did not, was that there is more data on students whose parents are less educated, than students whose parents are more educated, which could affect the conclusion of my data analysis.
