@@ -1,7 +1,5 @@
 # Group 001 - (The Socioeconomic Bias of Not-So-Standarized Testing)
 
-- Your title can change over time.
-
 ## Milestones
 
 Details for Milestone are available on Canvas (left sidebar, Course Project).
