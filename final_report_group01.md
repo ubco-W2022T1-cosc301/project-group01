@@ -32,9 +32,4 @@ For my analysis I wanted to see the correlation between overall score, race/ethn
 
 ![violinplot](/images/Analysis2_Image2.png)
 
-<<<<<<< HEAD
 [def]: images/analysis1_image2.png
-=======
-## Do certain races perform better than others as a result of having more completed test prep courses? (Peter)
-![violinplot](/images/Analysis2_Image2.png)
->>>>>>> 150a2d272474f08373f41298a5c836e4c4830507
