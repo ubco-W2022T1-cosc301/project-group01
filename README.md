@@ -21,7 +21,7 @@ Our dataset focuses on standardized testing outcomes in three different categori
 
 {You can use this area for any images you want to include}
 
-![photo for database](./images/studentphoto.png)
+![photo for database](./images/GettyImages-669646034-e1528745566420.jpg)
 
 ## References
 
