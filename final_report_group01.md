@@ -17,3 +17,4 @@ In this project, Noah, Peter, and Tina explored a data set called "Student Perfo
 
 ![violinplot](/images/Analysis2_Image2.png)
 
+## Do certain races perform better than others as a result of having more completed test prep courses? (Peter)
