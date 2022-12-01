@@ -1,2 +1,4 @@
 # The Socioeconomic Bias of Not-So-Standarized Testing 
 In this project, Noah, Peter, and Tina explored a data set called "Student Performance in Exams". Within this project, we each explored different socioeconomic factors that impact student performance on Standarized Tests. As university students from different backgrounds, we were interested to explore how these socioeconomic factors may affect student performance because we are university students studying at UBC, a university with many international students. Through our analysis, we hope to emphasize and acknowledge how social and financial class, gender, and race are important elements to consider when it comes to student performance. Ultimately, our findings will highlight 
+
+# Question 1 + results
