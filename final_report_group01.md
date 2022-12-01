@@ -1,5 +1,6 @@
 # The Socioeconomic Bias of Not-So-Standarized Testing 
 ![photo of students taking exam](/images/GettyImages-669646034-e1528745566420.jpg)
+
 **Team Members**
 - Noah Stasuik (Analysis 1)
 - Tina Liu (Analysis 2)
